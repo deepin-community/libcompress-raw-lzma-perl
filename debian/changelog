@@ -1,3 +1,50 @@
+libcompress-raw-lzma-perl (2.213-1) unstable; urgency=medium
+
+  * Import upstream version 2.213.
+  * Use packaged test modules instead of vendored copies.
+
+ -- gregor herrmann <gregoa@debian.org>  Sun, 01 Sep 2024 16:34:59 +0200
+
+libcompress-raw-lzma-perl (2.212-1) unstable; urgency=medium
+
+  * Import upstream version 2.212.
+
+ -- gregor herrmann <gregoa@debian.org>  Sat, 27 Apr 2024 23:27:43 +0200
+
+libcompress-raw-lzma-perl (2.211-1) unstable; urgency=medium
+
+  * Import upstream version 2.211.
+  * Declare compliance with Debian Policy 4.7.0.
+
+ -- gregor herrmann <gregoa@debian.org>  Sun, 07 Apr 2024 17:35:59 +0200
+
+libcompress-raw-lzma-perl (2.209-1) unstable; urgency=medium
+
+  * Import upstream version 2.209.
+  * Drop skip-new-test.patch, merged upstream.
+
+ -- gregor herrmann <gregoa@debian.org>  Wed, 21 Feb 2024 20:04:46 +0100
+
+libcompress-raw-lzma-perl (2.208-1) unstable; urgency=medium
+
+  * Import upstream version 2.208.
+  * Update years of upstream and packaging copyright.
+  * Add patch to fix a test failure.
+
+ -- gregor herrmann <gregoa@debian.org>  Mon, 19 Feb 2024 21:19:24 +0100
+
+libcompress-raw-lzma-perl (2.206-2) unstable; urgency=medium
+
+  * Remove generated files via debian/clean. (Closes: #1047759)
+
+ -- gregor herrmann <gregoa@debian.org>  Mon, 14 Aug 2023 00:49:41 +0200
+
+libcompress-raw-lzma-perl (2.206-1) unstable; urgency=medium
+
+  * Import upstream version 2.206.
+
+ -- gregor herrmann <gregoa@debian.org>  Sat, 29 Jul 2023 18:07:51 +0200
+
 libcompress-raw-lzma-perl (2.204-1) unstable; urgency=medium
 
   * Import upstream version 2.204.

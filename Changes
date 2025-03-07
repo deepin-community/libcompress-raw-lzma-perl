@@ -1,7 +1,100 @@
 CHANGES
 -------
 
+  2.213 28 August 2024
+
+    * no functional changes
+
+  2.212 27 April 2024
+
+    * #12 remove 5.6.0 & 5.6.1 from workflow
+      Mon Apr 8 09:42:40 2024 +0100
+      aa14f89e9fd06ee5ddf8ecceb73b6420086334e8
+
+  2.211 6 April 2024
+
+    * version 2.211
+      Sat Apr 6 14:29:03 2024 +0100
+      9db8924a5979246370193cd5997e5386d5ce4e63
+
+    * Add xz 5.6.1 to workflow
+      Sat Mar 9 14:56:51 2024 +0000
+      953082ddbe0b71d87a55a6952b2984a706fbed56
+
+    * fixes for 5.7.0 alpha
+      Sat Feb 24 15:05:34 2024 +0000
+      f4e0c65dc7ad21d1a9b3defa727bc9606229907a
+
+    * fix for gettext install
+      Sat Feb 24 15:01:17 2024 +0000
+      3f2488759f7244e4db69003305522a9c230d0993
+
+    * Install gettext for cmake
+      Sat Feb 24 14:57:06 2024 +0000
+      6a71424f221779702fc7517f33c9c373cf3e49e0
+
+    * Add xz 5.6.0 to workflow
+      Sat Feb 24 10:37:19 2024 +0000
+      bb252c8d1290cbbbd669a4ccd31e4429a3cf7e8a
+
+  2.209 19 February 2024
+
+    * Merge pull request #11 from pkg-perl-tools/pkg-perl-1708373862
+      Mon Feb 19 22:42:43 2024 +0000
+      b05c0160b9572684998708f7ce21fc5a59e1a850
+
+    * raise skip count in t/001version.t
+      Mon Feb 19 21:17:55 2024 +0100
+      5912a2cf7f426c5efec08cb6e1e4d93625fb2c61
+
+  2.208 19 February 2024
+
+    * fix for READMEmd target
+      Mon Feb 19 09:11:39 2024 +0000
+      c8e794edf48382738aeed4e2f43a938c68a80c76
+
+  2.207 18 February 2024
+
+    * No changes
+
+  2.206 25 July 2023
+
+    * 2.206
+      Tue, 25 Jul 2023 16:24:23 +0100
+      e4ceaeac2d96b3c1cf0830549c857a5909778e35
+
+    * Add instructions to deal with build failure on Ubuntu/Debian
+      https://github.com/pmqs/Compress-Raw-Lzma/issues/7
+      Tue, 18 Jul 2023 09:17:53 +0100
+      b2d20bb04a940f29e743b83396253794cde33a2d
+
+  2.205 16 July 2023
+
+    * 2.205
+      Sun, 16 Jul 2023 16:27:25 +0100
+      0a62359512bc744b92b2ab5006cda4fb11288e91
+
+    * Test::More isn't warns in Perl 5.38
+      Sun, 9 Jul 2023 22:14:20 +0100
+      b1618e085c274c8c60256cb0517bbf86ea790007
+
+    * perl 5.38
+      Sun, 9 Jul 2023 22:13:15 +0100
+      e590230d24b6b4e5bac7056d143cd1fff6e45481
+
+    * add on workflow_dispatch
+      Fri, 9 Jun 2023 16:33:15 +0100
+      7839cc6e574f400ed58e89f8944f4e5c2b960a98
+
+    * update action/checkout version
+      Wed, 8 Feb 2023 22:30:51 +0000
+      419479d0974fa40a9a91d0f47c433a8196896893
+
   2.204 8 February 2023
+
+    * Version 2.204
+      Wed, 8 Feb 2023 19:18:09 +0000
+      80ea141d49a304afff37e7f2da3bf5f2d487cc2f
 
     * Use GIMME_V instead of GIMME
       54e3c1e18b61f0892056925240bbc80f76e2f038

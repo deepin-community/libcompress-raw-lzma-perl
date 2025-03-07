@@ -4,7 +4,7 @@ Upstream-Contact: Paul Marquess <pmqs@cpan.org>
 Upstream-Name: Compress-Raw-Lzma
 
 Files: *
-Copyright: 2005-2023, Paul Marquess <pmqs@cpan.org>
+Copyright: 2005-2024, Paul Marquess <pmqs@cpan.org>
 License: Artistic or GPL-1+
 
 Files: ppport.h
@@ -27,7 +27,7 @@ Copyright: 2001, 2002, 2004 by Michael G Schwern <schwern@pobox.com>
 License: Artistic or GPL-1+
 
 Files: debian/*
-Copyright: 2013-2023, gregor herrmann <gregoa@debian.org>
+Copyright: 2013-2024, gregor herrmann <gregoa@debian.org>
 License: Artistic or GPL-1+
 
 License: Artistic
